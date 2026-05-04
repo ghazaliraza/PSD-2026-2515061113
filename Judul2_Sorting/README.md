@@ -245,5 +245,5 @@ Penutup.
 user menginputkan jumlah mahasiswanya lalu mengisi nama dan tinggi mahasiswa tersebut, outputnya adalah urutan data sebelum diurutkan. Lalu user memilih ingin diurutkan dengan ascending atau descending, dan hasilnya adalah urutan sesuai pilihan user.
 
 
-##E. Link youtube
+##E. Link youtube: https://youtu.be/iZINe6fmVUc?si=1cRDdpTRxGU5sY9i
 
