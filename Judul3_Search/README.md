@@ -159,3 +159,8 @@ Ketika batas kiri sudah melewati batas kanan, berarti seluruh area sudah diperik
 Program kemudian menampilkan pesan NPM tidak ditemukan.
 
 
+## E. Link youtube
+
+https://youtu.be/I3kWECLj0bM
+
+
