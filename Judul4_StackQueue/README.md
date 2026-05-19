@@ -377,6 +377,7 @@ ketika menambahkan histori pada pilihan 1 maka data akan dimasukkan dengan prins
 pada foto yang saya berikan saya menambahkan beberapa histori website lalu menghapus bagian terakhir dan seluruhnya, lalu saya mencoba semua opsinya dan semuanya bekerja normal. serta ketika saya memasukan angka yang tidak sesuai akan ter print input tidak valid.
 
 ## E. Link Youtube:
+https://youtu.be/9yysMIRb4Ys
 
 
 
