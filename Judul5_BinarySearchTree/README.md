@@ -187,6 +187,7 @@ Pada output dari program tersedia beberapa data awal npm mahasiswa. User dapat m
 Pada output tersebut saya menambahkan data mahasiswa baru dan menghapus data salah satu mahasiswa dan juga menampilkan data setelah dihapus dan ditambah. Semua bekerja dengan baik tanpa ada error
 
 ## E. Link Youtube:
+https://youtu.be/LBaWjRt4YsA?si=Wcc2wn2B-uFqXcOM
 
 
 
