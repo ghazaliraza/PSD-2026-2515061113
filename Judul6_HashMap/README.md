@@ -294,4 +294,8 @@ Pilihan 3 (Hapus): Menghapus data berdasarkan ID akan memperbarui susunan pointe
 Pilihan 4 (Lihat Data): Menampilkan visualisasi slot peta memori dari indeks Slot [0] hingga Slot [9] beserta status keterisiannya (EMPTY atau visualisasi rantai data [ID | Nama | Harga] -> NONE).
 
 
+## E. Link Youtube
+https://youtu.be/soYcK7HaLYk
+
+
 
